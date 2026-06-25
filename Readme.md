@@ -100,15 +100,13 @@ A large-scale benchmark for nuclei segmentation across diverse imaging condition
 If you find this work useful, please consider citing:
 
 ```bibtex
-@inproceedings{nguyen2026liteham,
+@inproceedings{nguyen2025towards,
   title={Towards Real-Time Medical Image Segmentation via Axial Channel Attention and Multi-scale Contextual Mamba},
   author={Nguyen, Quang-Huy and Nguyen, Van Quang and Pham, Van-Truong and Tran, Thi-Thao},
-  booktitle={Advances in Information and Communication Technology},
-  series={LNCS},
+  booktitle={International Conference on Advances in Information and Communication Technology},
   pages={97--107},
-  year={2026},
-  publisher={Springer Nature Switzerland},
-  doi={10.1007/978-3-032-18162-6_10}
+  year={2025},
+  organization={Springer}
 }
 ```
 
